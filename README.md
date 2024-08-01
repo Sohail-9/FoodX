@@ -1,1 +1,1 @@
-Twitter clone it represents food inform of posts.
+Twitter clone it represents food information in form of posts.
